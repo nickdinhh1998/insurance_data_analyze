@@ -9,3 +9,5 @@ what scopes are and which of them are needed when you do a data analysis on insu
 
 I am just now Entry Level, so my scopes for this data file could not be professional or enough. I am really appreciated those who contribute their thoughts
 about scopes of this file. 
+
+Nick
